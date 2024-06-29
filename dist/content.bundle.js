@@ -1,0 +1,1 @@
+console.log("Colorblind Web Enhancer content script loaded.");

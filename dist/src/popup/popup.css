@@ -1,0 +1,12 @@
+#popup {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #enhanceColors {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
